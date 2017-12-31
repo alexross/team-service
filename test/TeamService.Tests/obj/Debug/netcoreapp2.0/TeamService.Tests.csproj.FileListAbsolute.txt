@@ -1,0 +1,15 @@
+/Users/alex/src/TeamService/test/TeamService.Tests/obj/Debug/netcoreapp2.0/TeamService.Tests.csproj.CoreCompileInputs.cache
+/Users/alex/src/TeamService/test/TeamService.Tests/obj/Debug/netcoreapp2.0/TeamService.Tests.AssemblyInfoInputs.cache
+/Users/alex/src/TeamService/test/TeamService.Tests/obj/Debug/netcoreapp2.0/TeamService.Tests.AssemblyInfo.cs
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.Tests.deps.json
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.Tests.runtimeconfig.json
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.Tests.runtimeconfig.dev.json
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.Tests.dll
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.Tests.pdb
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.dll
+/Users/alex/src/TeamService/test/TeamService.Tests/bin/Debug/netcoreapp2.0/TeamService.pdb
+/Users/alex/src/TeamService/test/TeamService.Tests/obj/Debug/netcoreapp2.0/TeamService.Tests.dll
+/Users/alex/src/TeamService/test/TeamService.Tests/obj/Debug/netcoreapp2.0/TeamService.Tests.pdb

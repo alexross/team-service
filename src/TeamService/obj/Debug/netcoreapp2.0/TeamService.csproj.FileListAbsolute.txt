@@ -1,0 +1,10 @@
+/Users/alex/src/TeamService/src/TeamService/obj/Debug/netcoreapp2.0/TeamService.csproj.CoreCompileInputs.cache
+/Users/alex/src/TeamService/src/TeamService/obj/Debug/netcoreapp2.0/TeamService.AssemblyInfoInputs.cache
+/Users/alex/src/TeamService/src/TeamService/obj/Debug/netcoreapp2.0/TeamService.AssemblyInfo.cs
+/Users/alex/src/TeamService/src/TeamService/bin/Debug/netcoreapp2.0/TeamService.deps.json
+/Users/alex/src/TeamService/src/TeamService/bin/Debug/netcoreapp2.0/TeamService.runtimeconfig.json
+/Users/alex/src/TeamService/src/TeamService/bin/Debug/netcoreapp2.0/TeamService.runtimeconfig.dev.json
+/Users/alex/src/TeamService/src/TeamService/bin/Debug/netcoreapp2.0/TeamService.dll
+/Users/alex/src/TeamService/src/TeamService/bin/Debug/netcoreapp2.0/TeamService.pdb
+/Users/alex/src/TeamService/src/TeamService/obj/Debug/netcoreapp2.0/TeamService.dll
+/Users/alex/src/TeamService/src/TeamService/obj/Debug/netcoreapp2.0/TeamService.pdb
